@@ -1,4 +1,4 @@
-FROM tomcat:10.1.5-jdk11
+FROM tomcat:10.1.33-jdk11
 
 COPY . .
 
